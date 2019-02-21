@@ -1,0 +1,21 @@
+26 out of 30 points
+Individual designs vary but certain entities and relationships are needed to support the problem.
+The suggested design includes 7 tables.  
+Your design provided adequate entities for the specified case.
+
+Your Package entity should be linked to Tasks instead of Packing_List. Also, a Content and an Assignment entity are required here. The relationship between Package and Item should be zero or many to one and only one (You reversed it). Your Package entity lack of FK.
+
+Gary will be sharing the "suggested" design to the class during class on Thursday, October 11.
+I will be happy to meet with you to discuss your design if you like after you view the "suggested" design on Thursday, October 11.
+
+Lab # 2 : ERD in Microsoft Visio : Chapter 4 Problem 7
+1. A title block with a descriptive title, your name, and date        1 of 1 points
+2. Diagram using Microsoft Visio with Crow's foot notation *          4 of 4 
+3. Appropriate entities as outlined in the problem		      8 of 10 ***
+4. Every table has an appropriate primary key			      4 of 4
+5. Appropriate foreign keys identified				      3 of 4 ***
+6. Relationship lines show relationships to support problem           3 of 4 ***
+7. Many to Many relationships resolved                                3 of 3 
+                                              
+
+* To get all 4 points you need to provide a "native" Visio file (vsdx extension)
