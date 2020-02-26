@@ -1,8 +1,0 @@
-17:16:10	 From  Zekun Peng : why it is one and only one relationship with a zero or many beginning?
-17:22:37	 From  Zekun Peng : so the relationship diagram is determine with the logical reason?
-17:22:37	 From  Lei Yan : After we revise the MOU, should we upload it again?
-17:23:31	 From  Isaac Rivera : where will you be uploading this recording to?
-17:24:34	 From  yvonne : Is there any group project objectives for this week?
-17:25:04	 From  Zekun Peng : can you give a example of a key with both pkfk situation?
-17:26:50	 From  Saahithi : If we change our contract and MOU and resubmit it, would it be regraded? or is the grade final?
-17:29:17	 From  eea5117 : where in canvas will you post the screen recording of you demonstrating how to use visio?

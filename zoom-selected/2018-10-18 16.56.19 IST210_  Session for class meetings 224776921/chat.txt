@@ -1,2 +1,0 @@
-17:19:30	 From  yzt44   to   Gary Heberling(Privately) : yes, everything is normal
-17:25:26	 From  Isaac Rivera : in a different table could you use the BETWEEN keyword to sort through char values for something like airport code which typically use 3 chars?

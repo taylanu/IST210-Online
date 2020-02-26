@@ -1,1 +1,0 @@
-17:26:45	 From  Junki Ahn   to   Gary Heberling(Privately) : In visio there is no stencil for Foreign Key. Is there a way that I can get the stencil for foreign key?
